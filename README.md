@@ -16,57 +16,57 @@ I also want this project to be open-source so anyone can build, modify, or impro
 
 ## ✅ Objectives
 
-Build a functional 2D plotter
+- Build a functional 2D plotter
 
-Keep the cost as low as possible
+- Keep the cost as low as possible
 
-Make the project reproducible by others
+- Make the project reproducible by others
 
-Document everything
+- Document everything
 
 ## ⚙️ Constraints
 
-Use as few additional printed parts as possible
+- Use as few additional printed parts as possible
 
-Reuse as many original Ender 3 parts as possible
+- Reuse as many original Ender 3 parts as possible
 
-Keep modifications reversible if possible
+- Keep modifications reversible if possible
 
 ## 🛠️ Planned Steps (To-Do)
 
-Disassemble an old Ender 3
+- Disassemble an old Ender 3
 
-Identify reusable parts
+- Identify reusable parts
 
-Take measurements
+- Take measurements
 
-Design 3D parts
+- Design 3D parts
 
-Print and/or cut parts
+- Print and/or cut parts
 
-Assemble the plotter
+- Assemble the plotter
 
-Test and calibrate
+- Test and calibrate
 
-Document the build
+- Document the build
 
 ## 📂 Future Content
 
-STL / STEP files
+- STL / STEP files
 
-Wiring diagrams
+- Wiring diagrams
 
-Firmware configuration
+- Firmware configuration
 
-Assembly guide
+- Assembly guide
 
-Bill of Materials (BOM)
+- Bill of Materials (BOM)
 
 ## ⚠️ Disclaimer
 
 This project has not started yet.
 The repository will be updated as soon as development begins.
 
-### 👤 Author
+## 👤 Author
 
 Arthur (student, maker, open-source enthusiast)
