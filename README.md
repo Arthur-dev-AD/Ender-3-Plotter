@@ -62,7 +62,7 @@ Assembly guide
 
 Bill of Materials (BOM)
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This project has not started yet.
 The repository will be updated as soon as development begins.
